@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.flag {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+}
+
+#gora {
+    background-color: #74ACDF;
+    height: 120px;
+}
+
+#srodek {
+    background-color: white;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#dol {
+    background-color: #74ACDF;
+    height: 120px;
+}
+
+#srodek img {
+    width: 100px;
+    height: 100px;
+}
